@@ -1,4 +1,6 @@
-# Vatom Template Plugin 🔌
+VSP = Vatom Spaces Plugin
+
+# HUD Message 🔌
 
 This plugin is designed to be used from within [Vatom Spaces](https://vatom.com).
 
