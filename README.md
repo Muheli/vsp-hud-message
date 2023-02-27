@@ -2,7 +2,11 @@ VSP = Vatom Spaces Plugin
 
 # HUD Message 🔌
 
-This plugin is designed to be used from within [Vatom Spaces](https://vatom.com).
+This open source plugin is designed to be used from within [Vatom Spaces](https://vatom.com).
+
+## Try It
+You can find this plugin in the Vatom Market at
+- [market.vatom.com/product/vsp-hud-message](https://market.vatom.com/product/vsp-hud-message/)
 
 ## Development
 
